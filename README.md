@@ -1,9 +1,5 @@
----
-title: AmongUs 超多职业模组3.4.5独家汉化 Epic+Steam可用
-date: 2022/4/22 20:46:25
----
 此项目为The Other Roles模组的汉化项目
-目前支持版本：3.4.5
+目前支持版本：4.0.0
 本MOD不隶属于AmongUs或Innersloth LLC，本模组中内容未受Innersloth LLC资助或授权.本MOD中一部分使用的资源属于Innersloth LLC. © Innersloth LLC版权所有。</p>
 # 超多职业模组
 
@@ -38,7 +34,7 @@ date: 2022/4/22 20:46:25
 # 发布版
 | Among Us - 版本| Mod 版本 | 链接 |
 |----------|-------------|-----------------|
-| 2022.3.29s| v3.4.5| [点这里下载](https://wwc.lanzouy.com/i6wua031xz5i)
+| 2022.3.29s| v4.0.0| [点这里下载](https://wwc.lanzouy.com/i6wua031xz5i)
 
 # 更新日志
 **3.4.5 版本**
